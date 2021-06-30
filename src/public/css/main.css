@@ -5,12 +5,6 @@ background: linear-gradient(to right, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, F
     
 }
 
-div {
-    background-color: aliceblue;
-}
-
-
-#mirko {
-    padding-right: 0px;
-     padding-left: 0px;
+.logo {
+    width: 30%;
 }
